@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h4> <a href="https://stephenajulu.com/links">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://stephenajulu.com/blog">Blog</a> • <a href="https://stephenajulu.com/store">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> • <a href="https://stephenajulu.substack.com">Newsletter</a></h4>
 
 <h4>📕 My Latest</h4>
-
+<!-- 
 <!-- BLOG-POST-LIST:START -->
 - [Investment Platforms and Apps for Kenyans](https://stephenajulu.com/blog/investment-platforms-and-apps-for-kenyans/)
 - [The Best Investments To Own Before A Recession](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)
@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - [Why I Advocate For Saturated Fats Over Vegetable Oils&lpar;Updated&rpar;](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 - [Phone Buying Tips](https://stephenajulu.com/blog/phone-buying-tips/)
 <!-- BLOG-POST-LIST:END -->
+ -->
  -->
